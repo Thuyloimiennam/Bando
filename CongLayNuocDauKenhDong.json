@@ -1,0 +1,705 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:3857"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11834571.677403789,
+          1262705.5197941847
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "name" : "Cống tưới Kênh N2A",
+        "km_no" : "K7+82.5 (Hữu)",
+        "khaudo" : "2Ø150",
+        "dttke_ha" : 1967,
+        "qtke_m3s" : 2.335,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11833686.294717876,
+          1261956.8429402674
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "name" : "Cống tưới Kênh N2",
+        "km_no" : "K8+222 (Hữu)",
+        "khaudo" : " ",
+        "dttke_ha" : 558,
+        "qtke_m3s" : 0.66200000000000003,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11833420.995071515,
+          1260257.1403600797
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "name" : "Cống tưới Kênh N3",
+        "km_no" : "K9+975",
+        "khaudo" : "Ø80",
+        "dttke_ha" : 318,
+        "qtke_m3s" : 0.378,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11833249.768786345,
+          1258108.5101393722
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "name" : "Cống tưới Kênh N6",
+        "km_no" : "K12+073 (Hữu)",
+        "khaudo" : "Ø100",
+        "dttke_ha" : 434,
+        "qtke_m3s" : 0.51500000000000001,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11833343.801858068,
+          1259860.7094414867
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "name" : "Cống tưới Kênh N4",
+        "km_no" : "K10+362 (Hữu)",
+        "khaudo" : "2Ø150",
+        "dttke_ha" : 2756,
+        "qtke_m3s" : 3.2719999999999998,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11833497.831084304,
+          1256374.0483844467
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "name" : "Cống tưới Kênh N8",
+        "km_no" : "K13+820 (Hữu)",
+        "khaudo" : "2Ø150",
+        "dttke_ha" : 2050,
+        "qtke_m3s" : 2.4340000000000002,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11833535.824522883,
+          1256392.6679911241
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "name" : "Cống tưới Kênh N5",
+        "km_no" : "K13+832 (Tả)",
+        "khaudo" : "Ø60",
+        "dttke_ha" : 242,
+        "qtke_m3s" : 0.28699999999999998,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11834680.855010156,
+          1255007.9341167137
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "name" : "Cống tưới Kênh N7",
+        "km_no" : "K15+586 (Tả)",
+        "khaudo" : "Ø60",
+        "dttke_ha" : 352,
+        "qtke_m3s" : 0.41799999999999998,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11834756.274043534,
+          1254862.5528776012
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "name" : "Cống tưới Kênh N10",
+        "km_no" : "K15+743",
+        "khaudo" : "Ø100",
+        "dttke_ha" : 500,
+        "qtke_m3s" : 0.59399999999999997,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11836032.699355319,
+          1253821.7055316053
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "name" : "Cống tưới Kênh N7A",
+        "km_no" : "K17+400 (Tả)",
+        "khaudo" : "Ø60",
+        "dttke_ha" : 182,
+        "qtke_m3s" : 0.216,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11836459.82531976,
+          1253549.5616213605
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "name" : "Cống tưới Kênh N12",
+        "km_no" : "K17+887",
+        "khaudo" : "Ø80",
+        "dttke_ha" : 255,
+        "qtke_m3s" : 0.30299999999999999,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11838391.346547026,
+          1252524.600124944
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "name" : "Cống tưới Kênh N14",
+        "km_no" : "K20+034 (Hữu)",
+        "khaudo" : "BxH=2x2",
+        "dttke_ha" : 1950,
+        "qtke_m3s" : 2.3149999999999999,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11838223.763703562,
+          1252649.4380046241
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "name" : "Cống tưới Kênh N11",
+        "km_no" : "K19+832 (Tả)",
+        "khaudo" : "Ø150",
+        "dttke_ha" : 110,
+        "qtke_m3s" : 0.13100000000000001,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11839821.257531382,
+          1251401.8954927474
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "name" : "Cống tưới Kênh N13",
+        "km_no" : "K21+850 (Tả)",
+        "khaudo" : "Ø150",
+        "dttke_ha" : 310,
+        "qtke_m3s" : 0.36799999999999999,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : "CLN2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11840437.087132789,
+          1250390.1858040132
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "name" : "Cống tưới Kênh N16",
+        "km_no" : "K23+013 (Hữu)",
+        "khaudo" : "2Ø60+Ø100",
+        "dttke_ha" : 1560,
+        "qtke_m3s" : 1.8520000000000001,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11841321.067307752,
+          1249238.5531293079
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "name" : "Cống tưới Kênh N15",
+        "km_no" : "K24+427 (Tả)",
+        "khaudo" : "BxH=1.5x1.5",
+        "dttke_ha" : 100,
+        "qtke_m3s" : 0.11899999999999999,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11841889.843671728,
+          1248442.9602542892
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "name" : "Cống tưới Kênh N18",
+        "km_no" : "K25+383 (Hữu)",
+        "khaudo" : "BxH=2.5x2.5",
+        "dttke_ha" : 2350,
+        "qtke_m3s" : 2.79,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11842519.260814764,
+          1247697.9762410894
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "name" : "Cống tưới Kênh N17",
+        "km_no" : "K26+341 (Tả)",
+        "khaudo" : "2Ø100",
+        "dttke_ha" : 500,
+        "qtke_m3s" : 0.59399999999999997,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11842778.753308699,
+          1247321.2593794006
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "name" : "Cống tưới Kênh N20",
+        "km_no" : "K26+784 (Hữu)",
+        "khaudo" : "2x(2.5x2.5)",
+        "dttke_ha" : 3950,
+        "qtke_m3s" : 4.6890000000000001,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : "CĐT"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11844553.65230877,
+          1245076.0959776714
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "name" : "Cống tưới Kênh N22",
+        "km_no" : "K29+582",
+        "khaudo" : "Ø150",
+        "dttke_ha" : 650,
+        "qtke_m3s" : 0.77200000000000002,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11845017.28511877,
+          1244536.7592470497
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "name" : "Cống tưới Kênh N23",
+        "km_no" : "K30+275",
+        "khaudo" : "2Ø150",
+        "dttke_ha" : 1400,
+        "qtke_m3s" : 1.6619999999999999,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11846163.349332899,
+          1243058.7270155512
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "name" : "Cống tưới Kênh N24",
+        "km_no" : "K32+108",
+        "khaudo" : "Ø80",
+        "dttke_ha" : 290,
+        "qtke_m3s" : 0.34399999999999997,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11847628.445656147,
+          1241310.9761669748
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "name" : "Cống tưới Kênh N25",
+        "km_no" : "K34+334",
+        "khaudo" : "1x(3x2)",
+        "dttke_ha" : 2578,
+        "qtke_m3s" : 3.0600000000000001,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "name" : "Cống điều tiết kênh N23A",
+        "km_no" : "K0+000",
+        "khaudo" : "1.2x1.2",
+        "dttke_ha" : 0,
+        "qtke_m3s" : 0,
+        "qyc_m3s" : 0,
+        "qmax_m3s" : 0,
+        "mntk_m" : 0,
+        "lc" : 0,
+        "bc" : 0,
+        "ztl" : 0,
+        "zhl" : 0,
+        "z_day" : 0,
+        "canal" : "K.Đông",
+        "kihieu" : " "
+      }
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:32648"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          655610.22847248369,
+          1225848.5143618614
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "Ly_trinh" : "K0+000"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          655401.68974393094,
+          1225394.0789086777
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "Ly_trinh" : "K0+500"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          655192.79151314497,
+          1224939.8086462042
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "Ly_trinh" : "K1+000"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          654983.11025898135,
+          1224485.899526818
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "Ly_trinh" : "K1+500"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          654774.35823685699,
+          1224031.5636593772
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "Ly_trinh" : "K2+000"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          654565.17895966396,
+          1223577.4254374146
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "Ly_trinh" : "K2+500"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          654530.84937144304,
+          1223088.4610167444
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "Ly_trinh" : "K3+000"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          654561.98710153485,
+          1222592.9495217749
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "Ly_trinh" : "K3+500"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          654598.40502331464,
+          1222094.2775680907
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "Ly_trinh" : "K4+000"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          654467.02127950697,
+          1221644.6691305952
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0,
+        "Ly_trinh" : "K4+500"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          654160.1028872215,
+          1221249.9726129412
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0,
+        "Ly_trinh" : "K5+000"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          653852.75436583115,
+          1220855.5954562456
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0,
+        "Ly_trinh" : "K5+500"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          653545.56144727452,
+          1220461.0926131604
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0,
+        "Ly_trinh" : "K6+000"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          653237.7490612882,
+          1220067.0746325697
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Id" : 0,
+        "Ly_trinh" : "K6+500"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          652922.74236056698,
+          1219679.5650869184
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Id" : 0,
+        "Ly_trinh" : "K7+000"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          652646.93291466287,
+          1219285.2675841898
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Id" : 0,
+        "Ly_trinh" : "K7+500"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          652605.79161619698,
+          1218799.1162386595
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Id" : 0,
+        "Ly_trinh" : "K8+000"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          652776.77828171861,
+          1218388.8872540968
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Id" : 0,
+        "Ly_trinh" : "K8+500"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          652919.47600867087,
+          1217915.4794698416
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Id" : 0,
+        "Ly_trinh" : "K9+000"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          653025.711566902,
+          1217428.5378353915
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Id" : 0,
+        "Ly_trinh" : "K9+500"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          653154.28412681911,
+          1216945.5429967088
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Id" : 0,
+        "Ly_trinh" : "K10+000"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          653325.38892442733,
+          1216486.1409475498
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Id" : 0,
+        "Ly_trinh" : "K10+500"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          653669.09384932718,
+          1216123.0136310034
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Id" : 0,
+        "Ly_trinh" : "K11+000"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          653813.13477004319,
+          1215708.3621932277
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Id" : 0,
+        "Ly_trinh" : "K11+500"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          653720.16612471943,
+          1215225.1006712278
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Id" : 0,
+        "Ly_trinh" : "K12+000"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          653802.02637626638,
+          1214731.8950326021
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Id" : 0,
+        "Ly_trinh" : "K12+500"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          653883.89583935356,
+          1214238.9610760796
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Id" : 0,
+        "Ly_trinh" : "K13+000"
+      }
+    }
+  ]
+}

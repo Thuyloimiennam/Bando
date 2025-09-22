@@ -1,0 +1,126 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:32648"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          654678,
+          1223818
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "Ten_cong" : "CĐT K2+238",
+        "Ly_trinh" : "K2+238",
+        "Khau_do" : "2x(2,5x2,8)",
+        "Zday_TL" : "10,98",
+        "Qtk_m³_s" : "21,44",
+        "Htl_tk" : "13,70",
+        "Hhl_tk" : "13,04",
+        "Ghichu" : "Điều tiết cấp nước từ đầu kênh N26 đến K2+238"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          654402,
+          1221561
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "Ten_cong" : "CĐT K4+620",
+        "Ly_trinh" : "K4+620",
+        "Khau_do" : " 2x(2,5x2,8)",
+        "Zday_TL" : "10,29",
+        "Qtk_m³_s" : "19,82",
+        "Htl_tk" : "12,95",
+        "Hhl_tk" : "12,35",
+        "Ghichu" : "Điều tiết cấp nước từ K2+238 đến K4+620"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          653848,
+          1214432
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "Ten_cong" : "Xi phông Thầy Cai",
+        "Ly_trinh" : "K12+770",
+        "Khau_do" : "(2x2,6)",
+        "Zday_TL" : "4,25",
+        "Qtk_m³_s" : " 17,32",
+        "Htl_tk" : "7,50",
+        "Hhl_tk" : "5,85",
+        "Ghichu" : " Điều tiết cấp nước từ hạ lưu K8+149 đến K12+770 cho Long An"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          652629,
+          1218663
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "Ten_cong" : "CĐT K8+149",
+        "Ly_trinh" : "K8+149",
+        "Khau_do" : "2x(2,0x2,5)",
+        "Zday_TL" : "6,56",
+        "Qtk_m³_s" : "17,32",
+        "Htl_tk" : "9,40",
+        "Hhl_tk" : "8,89",
+        "Ghichu" : "Điều tiết cấp nước từ K4+620 đến K8+149"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          652673,
+          1219415
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "Ten_cong" : "CĐT K7+399",
+        "Ly_trinh" : "K7+399",
+        "Khau_do" : "1x(0,6x0,8) + Btr40m\r\n+Btr40m",
+        "Zday_TL" : "9,25",
+        "Qtk_m³_s" : " ",
+        "Htl_tk" : "11,46",
+        "Hhl_tk" : "9,42",
+        "Ghichu" : "Điều tiết cấp nước từ K4+600 đến K7+399; tràn dạng tràn mỏ vịt"
+      }
+    }
+  ]
+}

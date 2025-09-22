@@ -1,0 +1,448 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:3857"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11847148.152550794,
+          1241857.1851479877
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "name" : "Cống lấy nước đầu kênh",
+        "km_no" : "K0",
+        "khaudo" : "2x(2.725x2.800)",
+        "Q" : "21,44",
+        "S_ha" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11846822.520751413,
+          1241175.7482829115
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "name" : "Cống tưới 0-N26",
+        "km_no" : "K0+745",
+        "khaudo" : "D40",
+        "Q" : "0,193",
+        "S_ha" : "154"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11846612.028392283,
+          1240725.0755815215
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "name" : "Cống tưới 2-N26",
+        "km_no" : "K1+228",
+        "khaudo" : "D40",
+        "Q" : "0,085",
+        "S_ha" : "73"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11846518.492494974,
+          1240524.7302321668
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "name" : "Cống tưới 2a-N26",
+        "km_no" : "K1+448",
+        "khaudo" : "D40",
+        "Q" : "0,022",
+        "S_ha" : "54"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11846490.792883899,
+          1240418.9452167312
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "name" : "Cống tưới 3-N26",
+        "km_no" : "K1+548",
+        "khaudo" : "D40",
+        "Q" : "0,086",
+        "S_ha" : "74"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11846348.326904897,
+          1240156.8560949047
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "name" : "Cống tưới 2b-N26",
+        "km_no" : "K1+841",
+        "khaudo" : "D40",
+        "Q" : "0,022",
+        "S_ha" : "54"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11846365.055560324,
+          1240147.9299324565
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "name" : "Cống tưới 3a-N26",
+        "km_no" : "K1+841",
+        "khaudo" : "D40",
+        "Q" : "0,022",
+        "S_ha" : "54"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11846353.061391838,
+          1240123.7052651823
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "name" : "Cống tưới 3b-N26",
+        "km_no" : "K1+875",
+        "khaudo" : "D40",
+        "Q" : "0,022",
+        "S_ha" : "54"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11846166.260328013,
+          1239718.0489611654
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "name" : "Cống tưới 5-N26",
+        "km_no" : "K2+302",
+        "khaudo" : "D40",
+        "Q" : "0,085",
+        "S_ha" : "73"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11846149.660060488,
+          1239717.4657419499
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "name" : "Cống tưới 4-N26",
+        "km_no" : "K2+309",
+        "khaudo" : "D40",
+        "Q" : "0,075",
+        "S_ha" : "66"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11846052.716275278,
+          1238778.2897278587
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "name" : "Cống tưới 7a-N26",
+        "km_no" : "K3+206",
+        "khaudo" : "D40",
+        "Q" : "0,022",
+        "S_ha" : "54"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11846039.990172744,
+          1238666.7575916827
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "name" : "Cống tưới 6-N26",
+        "km_no" : "K3+358",
+        "khaudo" : "D60",
+        "Q" : "0,262",
+        "S_ha" : "204"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11846082.849754991,
+          1238319.0542471902
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "name" : "Cống tưới 7-N26",
+        "km_no" : "K3+698",
+        "khaudo" : "D40",
+        "Q" : "0,257",
+        "S_ha" : "160"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11845775.738244679,
+          1237298.8561350612
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "name" : "Cống tưới 9-N26",
+        "km_no" : "K4+812",
+        "khaudo" : "D60",
+        "Q" : "0,193",
+        "S_ha" : "153"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11845577.116318971,
+          1237073.0730823909
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "name" : "Cống tưới 8-N26",
+        "km_no" : "K5+105",
+        "khaudo" : "D80",
+        "Q" : "0,365",
+        "S_ha" : "276"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11845321.081293251,
+          1236719.622112554
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "name" : "Cống tưới 11-N26",
+        "km_no" : "K5+532",
+        "khaudo" : "D60",
+        "Q" : "0,188",
+        "S_ha" : "150"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11845014.323466063,
+          1236352.5697067142
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "name" : "Cống tưới 10-N26",
+        "km_no" : "K6+000",
+        "khaudo" : "D60",
+        "Q" : "0,257",
+        "S_ha" : "160"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11844619.235308949,
+          1235819.6638380066
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "name" : "Cống tưới 13-N26",
+        "km_no" : "K7+390",
+        "khaudo" : "D40",
+        "Q" : "0,04",
+        "S_ha" : "30"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11844122.674426857,
+          1235296.6917656092
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "name" : "Cống tưới 12-N26",
+        "km_no" : "K7+345",
+        "khaudo" : "Ø60",
+        "Q" : "0,124",
+        "S_ha" : "80"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11844026.123432308,
+          1234690.5202318153
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "name" : "Cống tưới 14-N26",
+        "km_no" : "K7+946",
+        "khaudo" : "D80",
+        "Q" : "1,144",
+        "S_ha" : "652"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11845285.086447746,
+          1231707.9228150265
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "name" : "Cống tưới VC-N38",
+        "km_no" : "K11+235",
+        "khaudo" : "D80",
+        "Q" : "1,5",
+        "S_ha" : "800"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11845321.993401118,
+          1231618.3273747233
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "name" : "Cống tưới 7a-N38",
+        "km_no" : "K11+450",
+        "khaudo" : "D80",
+        "Q" : "0,13",
+        "S_ha" : "100"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11846768.808846693,
+          1241012.8557070952
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "name" : "Cống tưới 1-N26",
+        "km_no" : "K0+906",
+        "khaudo" : "D40",
+        "Q" : "0,124",
+        "S_ha" : "80"
+      }
+    }
+  ]
+}

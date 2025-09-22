@@ -1,0 +1,151 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:3857"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11833549.383958308,
+          1256344.2655362298
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "name" : "Cống điều tiết",
+        "km_no" : "K13+877",
+        "khaudo" : "4x(3x3.5)",
+        "Zday_TL" : "12.27",
+        "Zday_HL" : "12.01",
+        "Ghichu" : "Điều tiết cấp nước từ K8+669 đến K1"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11838430.723053139,
+          1252525.7714050845
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "name" : "Cống điều tiết",
+        "km_no" : "K20+065",
+        "khaudo" : "3x(3x3.5) + 2x(2.5x4.52)",
+        "Zday_TL" : "11.71",
+        "Zday_HL" : "11.68",
+        "Ghichu" : "Điều tiết cấp nước từ K13+877đến K2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11842894.25038611,
+          1247201.3964330812
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "name" : "Cống điều tiết",
+        "km_no" : "K26+942",
+        "khaudo" : "2x(2x3,5) + 2x(2,5x4,6)",
+        "Zday_TL" : "11.62",
+        "Zday_HL" : "11.61",
+        "Ghichu" : "Điều tiết cấp nước từ K20+065 đến K"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11845018.72094639,
+          1244510.3628490863
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "name" : "Cống điều tiết",
+        "km_no" : "K30+300",
+        "khaudo" : "3x(2x2.5)",
+        "Zday_TL" : "10.90",
+        "Zday_HL" : "10.89",
+        "Ghichu" : "Điều tiết cấp nước từ K26+942 đến K"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11833473.621847393,
+          1261589.1582753272
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "name" : "Cống điều tiết",
+        "km_no" : "K8+669",
+        "khaudo" : "4x(3x3.5)",
+        "Zday_TL" : "12.41",
+        "Zday_HL" : "12.36",
+        "Ghichu" : "Điều tiết cấp nước từ K0 đến K8+669"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11847614.99487531,
+          1241295.1424850025
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "name" : "Cống điều tiết",
+        "km_no" : "K34+351",
+        "khaudo" : "2x(3x2,0)",
+        "Zday_TL" : "12.02",
+        "Zday_HL" : " ",
+        "Ghichu" : "Điều tiết CN từ K30+300 đến K34+351, CN"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11837661.676989138,
+          1268776.7024931915
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "name" : "CS1",
+        "km_no" : " ",
+        "khaudo" : "3x(3x4)",
+        "Zday_TL" : "12.73",
+        "Zday_HL" : " ",
+        "Ghichu" : " "
+      }
+    }
+  ]
+}
