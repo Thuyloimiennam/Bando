@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "GSMT - TL Cái Bé",
+        "address": "Xã Bình An, tỉnh An Giang",
+        "elevation_m": 2.005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.144669,
+          9.849057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "KCVH - Trâm Bầu",
+        "address": "Xã Châu Thành, tỉnh An Giang",
+        "elevation_m": 2.51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.214578,
+          9.855436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "GSMT - TL Cái Lớn",
+        "address": "Xã Bình An, tỉnh An Giang",
+        "elevation_m": 1.986
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.134082,
+          9.83723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "KCVH - HL Cái Lớn",
+        "address": "Xã Bình An, tỉnh An Giang",
+        "elevation_m": 1.98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.130411,
+          9.842833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "GSMT - Đông Yên",
+        "address": "Xã Định Hòa, tỉnh An Giang",
+        "elevation_m": 2.049
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.142587,
+          9.779546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "GSMT - Gò Quao",
+        "address": "Xã Vĩnh Tuy, tỉnh An Giang",
+        "elevation_m": 1.938
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.293993,
+          9.706794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "KCVH - Cầu Cái Tư",
+        "address": "Xã Hỏa Lựu, TP. Cần Thơ",
+        "elevation_m": 2.002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.393314,
+          9.742239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "GSMT - Ngã 3 Đình",
+        "address": "Xã Vĩnh Lộc, tỉnh Cà Mau",
+        "elevation_m": 2.084
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.292074,
+          9.635289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "GSMT - Bắc Hồng Dân",
+        "address": "Xã Lương Tâm, TP. Cần Thơ",
+        "elevation_m": 2.184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.418665,
+          9.593036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "GSMT - Vĩnh Thuận",
+        "address": "Xã Vĩnh Phong, tỉnh An Giang",
+        "elevation_m": 1.569
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.25632,
+          9.508908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "name": "GSMT - Làng T7 - Xẻo Cạn",
+        "address": "Xã Vĩnh Hòa, tỉnh An Giang",
+        "elevation_m": 2.133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.117831,
+          9.676294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "name": "GSMT - Tiểu Dừa",
+        "address": "Xã Nguyễn Phích, tỉnh Cà Mau",
+        "elevation_m": 1.987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.967724,
+          9.410436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "name": "GSMT - Ngã 3 Chắc Băng Cán Gáo",
+        "address": "Xã Thới Bình, tỉnh Cà Mau",
+        "elevation_m": 1.728
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.088324,
+          9.344217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "name": "KCVH - Kim Quy",
+        "address": "Xã An Minh, tỉnh An Giang",
+        "elevation_m": 2.069
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.945664,
+          9.612908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "name": "KCVH - Xẻo Quao",
+        "address": "Xã Đông Thái, tỉnh An Giang",
+        "elevation_m": 2.354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.001911,
+          9.758678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "name": "Âu thuyền cống Cái Lớn",
+        "address": "Xã Bình An, tỉnh An Giang",
+        "elevation_m": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.132416,
+          9.839866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "name": "Âu thuyền cống Cái Bé",
+        "address": "Xã Bình An, tỉnh An Giang",
+        "elevation_m": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.142676,
+          9.849963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "name": "Âu thuyền cống Xẻo Rô",
+        "address": "Xã Tây Yên, tỉnh An Giang",
+        "elevation_m": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.108848,
+          9.85847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "name": "Cống âu thuyền Ninh Quới",
+        "address": "Xã Ninh Quới, tỉnh Cà Mau",
+        "elevation_m": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.519813,
+          9.492905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "name": "Trạm TL cống Vũng Liêm",
+        "address": "Xã Quới An, tỉnh Vĩnh Long",
+        "elevation_m": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.208721,
+          10.098718
+        ]
+      }
+    }
+  ]
+}
