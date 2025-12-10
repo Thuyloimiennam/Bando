@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "KT_Tran",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "title": "Tràn bên", "X": 613218.0, "Y": 1261990.0, "Vitri": "K32+674", "Khaudo": null, "CTday_m": null, "Qtk_m3s": null, "Htk_TL": null, "Htk_HL": null, "Ghichu": "Bờ tả", "Chieudai": null, "Berong": "32", "Chucnang": null }, "geometry": { "type": "Point", "coordinates": [ 106.037800170761258, 11.414294341059668, 0.0 ] } },
+{ "type": "Feature", "properties": { "title": "Tràn ra", "X": 620820.0, "Y": 1259850.0, "Vitri": "K24+315", "Khaudo": null, "CTday_m": null, "Qtk_m3s": null, "Htk_TL": null, "Htk_HL": null, "Ghichu": "Bờ tả", "Chieudai": null, "Berong": "26", "Chucnang": "Tràn" }, "geometry": { "type": "Point", "coordinates": [ 106.107403996235519, 11.394697679178293, 0.0 ] } },
+{ "type": "Feature", "properties": { "title": "Tràn điều tiết  tràn dài K21+691", "X": 622047.0, "Y": 1257530.0, "Vitri": "K21+691", "Khaudo": "Ltr = 4x22m, 2x(2x2)m", "CTday_m": "CĐT(11,81), tràn(14,91)", "Qtk_m3s": "36,36", "Htk_TL": "15,33", "Htk_HL": "14,77", "Ghichu": null, "Chieudai": null, "Berong": null, "Chucnang": "Điều tiết nước từ K13+072 đến K21+691" }, "geometry": { "type": "Point", "coordinates": [ 106.118562248190614, 11.373687657457284, 0.0 ] } },
+{ "type": "Feature", "properties": { "title": "Tràn bên", "X": 622672.0, "Y": 1256410.0, "Vitri": "K20+402", "Khaudo": null, "CTday_m": "15,83", "Qtk_m3s": null, "Htk_TL": null, "Htk_HL": null, "Ghichu": "Bờ tả", "Chieudai": null, "Berong": "30", "Chucnang": "Tràn ra" }, "geometry": { "type": "Point", "coordinates": [ 106.124250849803062, 11.363519822072741, 0.0 ] } },
+{ "type": "Feature", "properties": { "title": "Tràn bên", "X": 627932.0, "Y": 1251890.0, "Vitri": "K13+018", "Khaudo": null, "CTday_m": "16,77", "Qtk_m3s": null, "Htk_TL": null, "Htk_HL": null, "Ghichu": "Bờ tả", "Chieudai": null, "Berong": "23", "Chucnang": "Tràn bên" }, "geometry": { "type": "Point", "coordinates": [ 106.172283597176829, 11.322472057029673, 0.0 ] } }
+]
+}

@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "KT_Nhaquanlytram",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "title": "Nhà quản lý cầu máng K25+255", "X": 619648.0, "Y": 1260400.0, "Ghichu": null, "Chucnang": "Nhà quản lý cầu máng K25+255" }, "geometry": { "type": "Point", "coordinates": [ 106.096677300681677, 11.39966997519859, 0.0 ] } },
+{ "type": "Feature", "properties": { "title": "Nhà quản lý CĐT K32+745", "X": 613087.0, "Y": 1262060.0, "Ghichu": "Bờ hữu", "Chucnang": "Nhà quản lý cống điều tiết K32+721" }, "geometry": { "type": "Point", "coordinates": [ 106.036607801161537, 11.414918643716963, 0.0 ] } },
+{ "type": "Feature", "properties": { "title": "Nhà quản lý CĐT K39+055", "X": 607121.0, "Y": 1262270.0, "Ghichu": null, "Chucnang": "Nhà quản lý cống điều tiết K39+055" }, "geometry": { "type": "Point", "coordinates": [ 105.981930133243424, 11.416988420771265, 0.0 ] } },
+{ "type": "Feature", "properties": { "title": "Nhà quản lý CĐT K13+072", "X": 627818.0, "Y": 1251910.0, "Ghichu": "Bờ tả", "Chucnang": "Nhà quản lý cống điều tiết K13+072" }, "geometry": { "type": "Point", "coordinates": [ 106.17124560390792, 11.322607511714429, 0.0 ] } },
+{ "type": "Feature", "properties": { "title": "Nhà quản lý CĐT K21+691", "X": 622154.0, "Y": 1257420.0, "Ghichu": "Bờ hữu", "Chucnang": "Nhà quản lý CĐT tràn dài K21+691" }, "geometry": { "type": "Point", "coordinates": [ 106.119544879903799, 11.372624254423942, 0.0 ] } },
+{ "type": "Feature", "properties": { "title": "Nhà quản lý CĐT K5+750 PH-BĐ", "X": 631819.0, "Y": 1245240.0, "Ghichu": null, "Chucnang": "Nhà quản lý cống điều tiết K5+750 kênh tiêu Phước Hội - Bến Đình" }, "geometry": { "type": "Point", "coordinates": [ 106.207644064806274, 11.262177338923806, 0.0 ] } },
+{ "type": "Feature", "properties": { "title": "Nhà quản lý CĐT K1+500 PH-BĐ", "X": 632121.0, "Y": 1249360.0, "Ghichu": "Bờ hữu", "Chucnang": "Nhà quản lý Cống điều tiết K1+500 kênh tiêu Phước Hội - Bến Đình" }, "geometry": { "type": "Point", "coordinates": [ 106.210563869257413, 11.299389257881803, 14.160416538827121 ] } },
+{ "type": "Feature", "properties": { "title": "Nhà quản lý K0", "X": 636842.0, "Y": 1257390.0, "Ghichu": "Bờ tả", "Chucnang": "Nhà quản lý Cống số 2" }, "geometry": { "type": "Point", "coordinates": [ 106.254129504711358, 11.371822657188201, 0.0 ] } }
+]
+}
